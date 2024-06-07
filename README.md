@@ -53,5 +53,5 @@ const sander: Developer = {
 
 <a href="https://exercism.org/profiles/sano2019" target="_blank"><img alt="X" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sano2019/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/sano2019" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a> <a href="https://x.com/sanderiscoding" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sano2019&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sano2019&layout=compact&count_private=true&theme=dracula")
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sano2019&count_private=true&show_icons=true&include_all_commits=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sano2019&layout=pie&count_private=true")
