@@ -10,7 +10,7 @@ const sander: Developer = {
   location: {
     current: { city: "Stockholm", country: "Sweden" },
     registered: { city: "Stockholm", country: "Sweden" },
-    lastVisited: { city: "Amsterdam", country: "The Netherlands" },
+    lastVisited: { city: "Chiang Mai", country: "Thailand" },
   },
   currentEmployer: "Scandinavian Airlines",
   currentRole: "Backend Developer",
