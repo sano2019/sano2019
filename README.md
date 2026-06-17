@@ -8,12 +8,12 @@ My name is Sander, and I started my career in web development in 2020. Since the
 const sander: Developer = {
   codingSince: 2020,
   location: {
-    current: { city: "Stockholm", country: "Sweden" },
+    current: { city: "Da Nang", country: "Vietnam" },
     registered: { city: "Stockholm", country: "Sweden" },
     lastVisited: { city: "Chiang Mai", country: "Thailand" },
   },
-  currentEmployer: "Scandinavian Airlines",
-  currentRole: "Backend Developer",
+  currentEmployer: "Freelancer",
+  currentRole: "Prompt engineering",
   hobbies: [
     "Videogames",
     "Badminton",
